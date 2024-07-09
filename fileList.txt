@@ -1,0 +1,8 @@
+.gitignore
+.idea
+fileList.txt
+log.txt
+out
+Practice_Java.iml
+src
+text.txt
