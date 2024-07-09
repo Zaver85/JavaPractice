@@ -4,7 +4,7 @@
 
 
 
-public class Task7 {
+public class Task07 {
     public static void main(String[] args) {
         String word = "арозаупаланалапуазора";
         System.out.println(isPalindrom(word));

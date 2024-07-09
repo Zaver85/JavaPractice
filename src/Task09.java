@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Task9 {
+public class Task09 {
     public static void main(String[] args) {
         String[] contentFolder = getFileList(System.getProperty("user.dir"));
         writeArrayToFile(contentFolder);

@@ -1,7 +1,7 @@
 //Дан массив двоичных чисел, например [1,1,0,1,1,1], вывести
 //максимальное количество подряд идущих 1.
 
-public class Task2 {
+public class Task02 {
     public static void main(String[] args) {
         int[] nums = {1, 1, 0, 1, 1, 1,};
         int count = 0;

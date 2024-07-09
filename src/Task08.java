@@ -5,7 +5,7 @@
 
 import java.io.FileWriter;
 
-public class Task8 {
+public class Task08 {
     public static void main(String[] args) {
         String str = "TEST";
         int n = 100;

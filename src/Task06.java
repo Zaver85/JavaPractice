@@ -4,7 +4,7 @@
 
 
 
-public class Task6 {
+public class Task06 {
     public static void main(String[] args) {
         String str = "aaaabbbcdd";
         String newStr = compressString(str);

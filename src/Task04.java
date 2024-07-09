@@ -2,7 +2,7 @@
 //префикса среди массива строк.
 //Если общего префикса нет, вернуть пустую строку ""
 
-public class Task4 {
+public class Task04 {
     public static void main(String[] args) {
 
         String[] strs = {"flower", "flow", "flight"};

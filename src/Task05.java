@@ -4,7 +4,7 @@
 
 
 
-public class Task5 {
+public class Task05 {
     public static void main(String[] args) {
         int n = 8;
         char c1 = 'A';
